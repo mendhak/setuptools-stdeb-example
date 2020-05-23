@@ -1,0 +1,6 @@
+
+dist
+deb_dist
+*.egg-info
+*.tar.gz
+tmp
